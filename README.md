@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building myself as a web developer
 - 🌱 I’m currently learning all tools envolved in web development
-- 👯 I’m looking to collaborate on individual and groupd challenges on Gama Academy
+- 👯 Recently concluded a Full Stack Development Course, but feel more attrackted to work as a front-end dev
 - 📫 How to reach me: luizsaulo@yahoo.com.br
 - ⚡ Fun fact: I´m a big Formula 1 fan! 🚗🏁
 
