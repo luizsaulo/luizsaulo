@@ -1,8 +1,8 @@
 ### Hello fellas, I´m Saulo from Brazil 👋
 
-- 🔭 I’m currently working on building myself as a web developer
-- 🌱 I’m currently learning all tools envolved in web development
-- 👯 Recently concluded a Full Stack Development Course, but feel more attrackted to work as a front-end dev
+- 🔭 I’m a front-end developer - React and TypeScript
+- 🌱 Currently and permanently making progress and amplifying my knowledge in web programming
+- 👯 Sophmore in Systems of Information and over 600 hours of extra classes courses all related to web programming
 - 📫 How to reach me: luizsaulo@yahoo.com.br
 - ⚡ Fun fact: I´m a big Formula 1 fan! 🚗🏁
 
